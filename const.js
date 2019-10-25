@@ -10,7 +10,7 @@ if (env === 'dev') {
   mp3FilePath = 'E:/nginx-1.17.4/resource/mp3'
   dbHost = 'localhost'
   dbUser = 'root'
-  dbPwd = 'dp.13297586886'
+  dbPwd = ''
 } else if (env === 'prod') {
   resUrl = 'http://122.51.93.40'
   mp3FilePath = '/root/nginx/upload/mp3'
